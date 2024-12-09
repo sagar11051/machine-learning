@@ -1,0 +1,1 @@
+web shv setup.sh && streamlit run main.py
